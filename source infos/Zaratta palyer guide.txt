@@ -1,0 +1,451 @@
+# Zaratta: Player's Guide
+## Welcome to the Old Dry Oasis
+
+---
+
+## The Elevator Pitch
+
+Zaratta is a dieselpunk desert city where magic and technology collide, undead labor in the shadows, and political power is measured by how much money you spend. It's a place of brutal meritocracy, accelerating progress, and carefully managed chaos. Where anyone can reinvent themselves, but the cost might be their soul.
+
+**Themes:** Political intrigue, moral complexity, technological progress vs. human cost, organized labor movements, systemic injustice, body horror (undead consciousness)
+
+**Tone:** Noir politics meets Arabian Nights meets industrial revolution, with a dash of cosmic horror lurking at the edges
+
+---
+
+## The Basics
+
+### The City
+
+- **Founded:** Approximately 150 years ago by two legendary adventurers: Walì and Molochia Vadhat
+- **Location:** Jaang Desert, surrounded by a bizarre marine biome evolved for sand (stone fish, coral cacti, sand anemones)
+- **Aesthetic:** Brutalist arabesque. Glass towers next to ancient stone, workshops covered in jewels, machines that look like palaces
+- **Population:** Cosmopolitan chaos. Desert elves, young dwarves, human refugees, "regularized" demons and devils, and thousands of undead workers
+
+### The Hook
+
+Everyone comes to Zaratta for the same reason: **reinvention**.
+
+Away from old kingdoms, ancient traditions, and divine oversight, this is where you can become whoever you have the skill and ruthlessness to be. The city doesn't care about your past, only what you contribute to its future.
+
+### The Catch
+
+Everything in Zaratta has a cost, and someone else is usually paying it.
+
+### The Witnesses
+
+Not everyone comes to Zaratta to reinvent themselves.
+
+Some come because they already tried that elsewhere, and it didn't work.
+Some come because someone needs to remember what everyone else wants forgotten.
+Some come because the numbers don't add up, and they're the type who can't stop counting.
+
+The city runs on selective blindness—looking away from the mines, the ghettos, the sanitized reports, the inflated receipts.
+
+But in every system built on what people ignore, someone's paying attention.
+
+The bureaucrat who processes every fraudulent claim and remembers every discrepancy.
+The worker who sees patterns in factory shadows that look almost like language.
+The survivor who keeps counting names long after the official lists stopped.
+
+They're here too, in the spaces between what the city says and what the city does.
+
+Most citizens never notice them.
+The ones in power wish they hadn't.
+
+### The Mood of the City
+Zaratta is never quiet.The refineries run overnight shifts.
+The trams clatter through predawn streets.
+The Bureau opens before sunrise because the queue forms before sunrise.
+Somewhere in the factory district a compression engine is always cycling, a whistle always blowing, a deal always being signed in triplicate.
+This, this is policy.
+The city moves because moving cities don't have to think about what they're moving away from.
+Ask anyone on the street and they'll tell you they're busy. Genuinely busy!
+There's always a contract to file, a quota to hit, a voting threshold to chase, a patron to impress, a rival to undercut.
+The noise is real. The work is real. The exhaustion is real.
+Nobody is pretending to be occupied; they simply made sure occupation was the only available state.
+And underneath all of it, something hums.
+Citizens learn to live with it the way you learn to live with tinnitus: by filling every moment with something louder.
+The photographs keep arriving on the walls.
+The alchemical cocktails keep getting more elaborate.
+The art patronage schemes get more creative, the festivals more numerous, the public debates more heated over smaller and smaller stakes.
+The kobold choir in the station rehearses louder every week.
+It's not that no one knows.
+It's that everyone has quietly agreed, without ever saying so out loud, that knowing would require stopping. And stopping would mean the humming gets louder.
+And if the humming gets loud enough to hear clearly, you'd have to decide what to do about it.
+So the city keeps moving.
+The mechanism grinds on.
+Everyone stays busy.
+Very, very busy.
+
+---
+
+## How Power Works
+
+### Social Rights vs. Political Rights
+
+- **Everyone** gets social rights: protection, public services, freedom of movement
+- **Only contributors** get political rights: the right to vote and shape policy
+- **The undead?** They're still figuring out which category they fall into
+
+### The Patronage System
+
+Political power = documented spending, not wealth
+
+To earn a vote, you must annually circulate value through:
+
+1. **Direct Investment** - funding construction, businesses, public works
+2. **Employment Creation** - running a business that employs others
+3. **Consumption** - just spending money on goods and services
+
+**The Threshold:** About 6 months of skilled worker wages
+
+**The Reality:** Most citizens will never vote. A factory worker spends everything on survival, that circulates value but never reaches documentation threshold.
+
+**The Loopholes:** Art patronage schemes, inflated receipts, phantom commissions, employment fraud
+
+---
+
+## The Seven Factions
+
+Political power in Zaratta flows through the **Muqadimma** (city council), divided into competing factions:
+
+### Hukuma - "Zaratta First"
+
+- **Led by:** Walì Vadhat personally
+- **Philosophy:** The city's survival above all else, progress, history, justice, everything
+- **Power:** Control the Central Bank, hold veto power, final arbiters of existential threats
+- **Style:** Slow, careful, pragmatic to the point of inaction
+- **Rumor:** Some say the city's inefficiencies were designed deliberately, though no one agrees on why
+
+### Taqlidi - "History First"
+
+- **Led by:** Molochia Vadhat
+- **Philosophy:** Preserve every artifact, document, and piece of cultural memory
+- **Problem:** They hoard knowledge and rarely share it, infamous for "artifact retrieval" (theft) from other nations
+- **Power:** Extensive archives spanning city blocks, meticulous record-keeping
+- **Reputation:** International pariahs, worsening Zaratta's diplomatic standing
+
+### Tasarue - "Progress First"
+
+- **Led by:** Leni "Ashbrander" Aschenbringer (Kholo/dwarf hybrid)
+- **Philosophy:** Accelerate technological development; fix problems with future innovations
+- **Style:** High accident rates accepted as costs of progress, minimal safety oversight
+- **Goal:** Remove the "old guard" (Walì and Molochia) they see as shackles
+- **Growing:** Popular with youth and recent immigrants
+
+### Amal Dua'i - "The Living First"
+
+- **Led by:** Lixander "Vadhat" (drake, technically not family enough to bypass Family Rules)
+- **Philosophy:** Advocate for all living citizens regardless of economic contribution
+- **Constituency:** The marginalized, recent arrivals, workers in poor conditions
+- **Success:** Some workplace safety reforms, expanded education
+- **Rumor:** Foreign deals with outer plane entities, "ensuring an accord"
+- **Warning:** Don't ask about their relationships with foreign presshouses and churches
+
+### Muraqib - "Order First"
+
+- **Led by:** No single spokesperson (collective of regularized planar entities)
+- **Composition:** Devils (contract law), demons (chaos response), axiomites (legal frameworks), ganzis (magical anomalies)
+- **Reputation:** Surprisingly incorruptible, but their laws have layers of interpretation and hidden purposes
+- **Power:** Law enforcement, legal drafting, "punishment squads"
+- **Philosophy:** Make the City's life paradise, yours hell
+
+### Almustaemarat - "Economy First" (Dying Faction)
+
+- **Status:** 14 of 17 colonial outposts reportedly "restructured" or "consolidated"
+- **Reality:** Rumors of massacres, covered up by sanitized reports
+- **Leadership:** None stable, leading a faction whose members keep disappearing is unappealing
+- **Future:** Likely to be dissolved, colonies abandoned
+
+### Amut - The Undead (Unofficial)
+
+- **Meaning:** "Dead tired" or "one who works but doesn't die"
+- **Status:** Not officially recognized, slowly accumulating representatives
+- **Population:** Unknown, thousands of sentient undead, possibly more
+- **Internal Debate:** Create a leader vs. wait for the prophesied "Bone Archdragon"
+- **Threat Level:** Terrifies everyone, if they organize, they become an uncontrollable workforce monopoly
+
+---
+
+## What You Can't Do in Zaratta
+
+### Organized Religion is Illegal
+
+Gods are classified as "extradimensional aliens of hazardous nature" with unquantifiable political/military capabilities.
+
+- Organized worship = collaboration with foreign powers
+- Private prayer is fine
+- Churches cannot organize, proselytize, or exercise political influence
+- **Why:** After the Portal War, the founders are terrified of divine intervention
+
+### No Monopolies (Unspoken Rule)
+
+There's no anti-monopoly law, but monopolies mysteriously never form:
+
+- Competitors receive "mysterious funding"
+- Warehouse fires, labor strikes, sudden inspections
+- **Philosophy:** "Better three competitors than one corpse"
+- **Why:** In a system where spending = power, a monopoly over essentials = political dictatorship
+
+### Don't Die Here
+
+*"The dead are precious merchandise."*
+
+- Undead are used as tireless workforce
+- They're underground in mines, in distant ghettos harvesting crops, locked in factories
+- Out of sight, never absent
+- Sentient undead are awakening, legal status unclear
+
+Most people accept this.
+
+A few don't.
+
+They keep their own records, conduct their own audits, maintain private tallies of numbers that should match but don't.
+
+The system tolerates them.
+Barely.
+For now.
+
+Because even Zaratta understands: sometimes you need someone keeping the real books, even if you never let them publish.
+
+
+---
+
+## The Vadhat Mystery
+
+### The Family
+
+- **Founders:** Walì (bearer of progress) and Molochia (Herald of the Tree, diverted magic currents)
+- **Status:** Above ordinary law, operate under [Redacted] Family Rules
+- **Power:** Could theoretically outvote the entire Muqadimma combined
+- **Question:** Why don't they just rule directly?
+
+### What Everyone Knows
+
+- They haven't voted in the Muqadimma in 17+ years
+- Walì leads Hukuma, Molochia leads Taqlidi
+- They're married, legendarily powerful, and built everything
+- The Tree in the city center was planted by Molochia "to regulate magic flows"
+- Walì is about to attend a council meeting for the first time in nearly two decades
+
+### What People Notice (If They Pay Attention)
+
+- Molochia doesn't seem to age at the expected rate
+- She's patient in ways that feel... unnatural
+- The Tree's purpose has never been fully explained
+- Sometimes Molochia talks about "letting things develop" over decades like it's a weekend
+- Walì looks tired in ways that have nothing to do with physical exhaustion
+- They're clearly in love, but something about their relationship seems strained
+
+### What People Whisper
+
+- Something happened to Molochia during their adventuring days
+- She was taken somewhere, some say a "Plane of Time" or something called "Mynmimir"
+- She came back... different. Changed. Knowing things she shouldn't
+- The Tree might be more than just magical infrastructure
+- Walì designed the city's inefficiencies deliberately
+- Their 17-year silence isn't political calculation, it's something more personal
+- Something big is coming, and the silence is about to break
+
+### Questions Your Character Might Ask
+
+- Why did the founders step back from direct rule?
+- What are the Family Rules, and why are they [Redacted]?
+- Why does everyone defend the city's deliberate inefficiencies?
+- What's Molochia really preserving in those archives?
+- If they could fix everything, why don't they?
+- What happened to Molochia that changed her so much?
+- Why does the Tree exist, and what would happen if it died?
+
+---
+
+## Setting Details You Should Know
+
+### Technology Level
+
+- **Diesel/Petroleum Power:** Zaratta runs on bitumen and crude oil extracted from its territory. The city has been the primary fuel supplier to surrounding nations for 150 years, but rivals are developing alternatives: Rauchberg's bio-paste reactors for ships, Alfia's experimental arcane batteries
+- **Photography:** Cyanotype machines everywhere, walls covered in photographs as public diary
+- **Railways:** Extensive diesel locomotive network, some routes rumored to be haunted (the 03:17 tram...)
+- **Magic Regulation:** Strict spell licensing required—uncontrolled magic is what created the bizarre desert in the first place
+- **Paper Currency:** Banknotes instead of coins, making economic circulation easier to track (and voting rights easier to verify)
+- **Lighting:** Electric arc lights in wealthy districts, petroleum lamps elsewhere
+- **Industry:** Compression engines, pneumatic systems, refinery processes—this is an oil economy, not a coal one
+
+### Daily Life
+
+- **The Bureau of Civic Contribution:** Where patronage claims go to die or receive miraculous approval. Run by an ascetic woman who's memorized thirty years of voting thresholds and sees through every scheme. Her red stamp means yes, her black stamp means no, her grey stamp means "I know what you did, but I'm allowing it—don't make me regret this."
+- **The Factory Lights:** In certain districts, petroleum lamps flicker at odd hours in patterns too regular to be mechanical failure. Workers claim it's faulty wiring. The lampwright maintains them at 03:00 when most citizens sleep. No one asks why lamp maintenance requires those specific hours, or why the patterns seem almost like code.
+- **Freight Schedules:** Official manifests list cargo, departure times, arrival confirmations. Conductors keep private notebooks. The numbers rarely match. The Muqadimma doesn't audit freight records closely. Some say it's efficiency. Others say it's willful blindness. The conductors just keep counting.
+
+- **Greeting Custom:** Touch chest with two fingers (3 times formal, 2 for friends, 1 for dismissal, closed fist = "fuck off")
+- **Drug Laws:** Inhalation prohibited (industrial fog already toxic), liquid substances popular
+- **Art Scene:** Booming but corrupt, artistic patronage used for political power schemes
+- **Public Libraries:** Packed with books from every region
+- **The Temple:** Outside city walls, celebrates 100+ religious festivals (neutrally, as cultural events)
+
+### The Landscape
+
+- **Inside City:** Smoke, glass towers, arabesque stonework, workshops, factories
+- **Surrounding Desert:** Bizarre marine-evolved biome, coral cacti, stone fish swimming through sand
+- **The Tree:** Molochia's massive tree in the city center with glass-like leaves, purpose unclear to most
+
+## This Is Dieselpunk, Not Steampunk
+
+**Zaratta runs on petroleum, not coal. Internal combustion, not external boilers.**
+
+What you'll experience:
+- **Diesel locomotives** belching black exhaust, not steam engines puffing white
+- **Oil refineries** processing crude petroleum, not coal gasification plants
+- **The smell** of burning bitumen and petroleum fumes, not coal smoke
+- **Industrial aesthetic** of steel, chrome, and functional brutalism, not Victorian brass elegance
+- **Compression engines** powering everything from factory machinery to vehicles
+
+The city's wealth and power come from extracting thick, black oil from beneath the magically-restructured desert. Everything else follows from that single fact.
+
+But other nations are catching up. Rauchberg has bio-paste reactors. Alfia is experimenting with arcane batteries. Zaratta's petroleum won't last forever.
+
+What happens to a city built on oil when the oil runs out?
+
+---
+
+## Campaign Hooks
+
+### For Different Play Styles
+
+**Political Intrigue:** Navigate the Muqadimma factions, earn voting rights, manage patronage schemes
+
+**Labor Movement:** Work with the Amut for undead rights, or against them to preserve the status quo
+
+**Noir Investigation:** Uncover corruption, art fraud schemes, colonial cover-ups, the 03:17 tram
+
+**Idealism vs. Pragmatism:** Question whether the founders' compromises were necessary or if they've lost their way
+
+**Accelerationism:** Side with Tasarue to push progress faster, consequences be damned
+
+**Historical Mystery:** Work with Taqlidi in artifact retrieval (theft), unlock ancient secrets about the Portal War or mysterious places like "Mynmimir"
+
+**Theological Warfare:** Navigate Lixander's outer plane deals, returning gods, changing magic
+
+**Colonial Survival:** Play in one of the surviving outposts, creating "mini-Zarattas" in hostile territory
+
+**The Founders' Secret:** Investigate what really happened to Molochia and why Walì built the city the way he did
+
+---
+
+## Character Creation Considerations
+
+### Origins
+
+- **Desert Elf:** Native to the region, adapted to the bizarre biome
+- **Young Dwarf:** Fled traditional Rauchberg society for Zaratta's "freedom"
+- **Human Refugee:** Escaped Alfia's collapse or other continental disasters
+- **Planar Descendant:** Child of "regularized" demons/devils who made deals with the Vadhats
+- **Undead:** Sentient undead awakening to consciousness (challenging but fascinating)
+- **Foreigner:** Here for reinvention, opportunities, or running from something
+- **Portal War Survivor:** Old enough to remember what divine intervention actually looks like
+
+### Social Position
+
+- **Non-Voter:** Most of the city, struggling to survive, dreams of patronage
+- **Threshold Walker:** Almost earning voting rights, forming partnerships to share slots
+- **Patron:** Established voter, navigating corruption vs. principle
+- **Faction Member:** Committed to one of the seven groups' philosophies
+- **Undead Rights Activist:** Working with or against the Amut
+- **Colonial Returnee:** Survived what others didn't, knowing truths the city wants hidden
+
+### Questions to Ask Your Character
+
+- Why did you come to Zaratta? What are you running from or toward?
+- Do you vote? If yes, how do you earn it? If no, how do you feel about that?
+- What do you think about the undead? Are they people, machines, or something else?
+- Which faction's philosophy resonates with you?
+- If you could fix one thing about Zaratta, what would it be? What would that break?
+- Have you noticed that Molochia seems... strange? Patient in ways that don't feel human?
+- Do you think Walì is still the hero he was, or has he become the obstacle?
+- What do you think really happened to Molochia during the adventuring years?
+
+---
+
+## Starter Scenarios
+
+### 1. "First Vote"
+
+PCs are threshold walkers forming a partnership to share a voting slot. Navigate art patronage schemes, employment fraud, and moral compromises to reach the threshold. First faction meeting exposes deeper conflicts.
+
+### 2. "The 03:17 Tram"
+
+Investigate the ghost train rumor. Discover undead transport systems, meet first sentient undead, choose whether to report or protect them. Introduction to Amut faction.
+
+### 3. "Colonial Returnee"
+
+One PC survived a massacred outpost. They know the truth about the casualties. Do they expose it and destroy the Almustaemarat, or keep silent and protect survivors?
+
+### 4. "Artifact Retrieval"
+
+Hired by Taqlidi for "acquisition" (theft) from another nation. Moral questions about preservation vs. ownership, international consequences. Maybe you find something about "Mynmimir" that Molochia doesn't want known.
+
+### 5. "Lixander's Grand Plans"
+
+The drake NPC recruits PCs for business venture. Slowly reveals outer plane connections. Choose: profit from dangerous deals or expose him despite Amal Dua'i support.
+
+### 6. "The Muqadimma Summons"
+
+Walì is attending his first council meeting in 17 years. Factions are panicking, stockpiling, making moves. PCs caught in the chaos of everyone preparing for... something.
+
+### 7. "The Strange Tree"
+
+Something odd is happening with Molochia's Tree. Its glass leaves are behaving strangely. Some want to study it, others want to destroy it. What does it actually do?
+
+### 8. "Witnesses to Change"
+
+You remember when Molochia returned from wherever she went. You saw how different she was. Now, years later, you notice she's becoming even stranger. What's happening to her?
+
+### 9. "The Grey Stamp"
+Vahira "Three-Coins" processes your application, knows it's bullshit, gives you the grey stamp: "Under review. Pending additional documentation." Thirty days to legitimize it, withdraw it, or discover she's given grey stamps to seventeen others this month. Is she corrupt, compassionate, or keeping records the Muqadimma doesn't want kept?
+
+### 10. "The Lampwright's Signal"
+Factory lights flicker in patterns for three weeks. Your supervisor says faulty wiring. Then you see the skeletal lampwright creating the patterns deliberately. They notice you noticing. Report them, ignore them, or learn what the lights are saying. Choice determines if you discover the undead underground network or become a threat they need to handle.
+
+### 11. "228 Names"
+Routine freight inspection at eastern depot. Captain Yasmin, scarred and frost-bitten, shows you her notebook during coffee break: 228 names from Outpost Seven. Evidence of massacre the reports call "restructuring." She's tried reporting 67 times. Four listened. You're number 68. Another colonial shipment leaves next week with 200 workers. Help her, or be like the other 63 who said nothing?
+
+---
+
+## Quotes to Set the Mood
+
+- "Money must flow like the desert wind, or it becomes sand."
+- "Better three competitors than one corpse."
+- "The Muqadimma is like the desert, you can't stop it; you can only hope to cross it without being buried, or immerse yourself and ride it."
+- "Advice of the day: don't die in Zaratta."
+- "In Zaratta, even beauty is a transaction."
+- "Here anyone can reinvent themselves alone, with their own hands."
+- "She says 'let's wait fifty years' like it's nothing. Does she not understand how long that is for us?"
+- "The Tree keeps her here. We think. We hope. But honestly? We don't really know."
+
+---
+
+## Questions This Setting Asks
+
+- Can meritocracy ever be fair?
+- Does efficient oppression justify itself?
+- When does progress become too fast to survive?
+- How do you govern when being right doesn't mean you can implement it?
+- Is messy autonomy better than perfect dependence?
+- What happens when founders outlive their founding principles?
+- Can people who experience the world fundamentally differently still understand each other?
+- When does documentation become resistance?
+- Who decides which truths require evidence and which can remain unspoken?
+- Is bearing witness enough, or does someone have to act?
+- What's the cost of keeping count when everyone else has stopped?
+- Can a system built on selective blindness survive the people who refuse to look away?
+
+---
+
+**Welcome to Zaratta.**
+
+**Choose wisely.**
+
+**The city doesn't care about your past, only what you'll become.**
+
+**And what you're willing to pay for it.**

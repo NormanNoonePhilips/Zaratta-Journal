@@ -1,0 +1,892 @@
+# Zaharât (Zaratta), the Old Dry Oasis
+
+A strange city, with an even stranger history.
+Born of divine miracles and magic, cradle of technology and atheism.
+Everything connects back to the World Tree, and everyone tries to forget about it.
+
+---
+
+## Opening
+
+At first, from the carriage window, there's only desert.
+Desert and cutting wind.
+Desert and scorching sand.
+Desert and golden dunes.
+Golden dunes stretching to the horizon, waves of dust rising and falling, crests changing shape with every breath.
+And among these waves move massive shadows: drakes with gleaming backs, long as serpents, swift as hawks, lunging at invisible prey; massive bulettes, heavy as rocks, quick as tremors, emerging from underground in dull thuds, devouring those who hesitated a moment too long.
+The sun crushes down, the heat vibrates, the sky seems to burn.
+The usual Jaang desert.
+Yet, while staying on the same route, the landscape changes.
+Not immediately, no.
+It mutates with the same speed and treachery as poison in a courtier's favorite wine.
+First a strange detail, then another, then another still.
+Cacti with arms like coral fans, covered in tiny multicolored polyps.
+Stone-skinned fish swimming through the sand, leaving soft, undulating trails.
+Anemones large as carts, fleshy mouths opening and closing, swallowing careless desert birds.
+Everything seems like the sea, but without water; everything seems alive, but not as it should be; everything is the miracle and abomination left by Molochia Vadhat when they bent the continent's magic veins.
+The train whistles, and whistles again.
+The city is near.
+Zaratta is near.
+First come the smokestacks.
+Tall, thin, obstinate.
+They spit greenish smoke, then purplish, then greenish again, as if the air were trying new recipes.
+The acrid smell of burning bitumen hangs heavy in the air, mixing with petroleum fumes from idling engines. The city runs on what it digs from beneath the desert: thick, black oil that powers everything from factory presses to railway locomotives.
+Then come the towers, with their glass and metal.
+Tall and proud towers.
+Towers gleaming under the sun.
+Towers looking down on the lower, sturdier, more ancient stone houses.
+Brutalism and arabesque.
+Bare beams and exposed bolts next to hypnotic decorations.
+Workshops covered in jewels, palaces that look like machines, machines that look like palaces.
+Beauty trying to command utility.
+Utility trying to devour beauty.
+The foreigner descends.
+The crowd overwhelms him.
+The usual routine for the train controller whistling at the station.
+Dwarves with lenses welded to their eyes.
+Desert elves wrapped in light veils.
+Kholoi with agitated tails, lacquered claws.
+Demons in jackets and crooked ties.
+Voices, smells, clangs.
+The mundane and epic together, in a single tide.
+The foreigner doesn't know whether to be disappointed or surprised.
+He nearly trips over a choir of kobolds rehearsing their next number with strange brass wind instruments.
+The guard stops him.
+Pass? Checked.
+Spell license? Present.
+Religious declarations? None.
+You may pass.
+Inside the real city, the walls speak.
+Black and white photographs, by the thousands.
+Faces, streets, hands, smiles.
+Every day some new ones arrive, from tourists and citizens, without order, without hierarchy.
+A common diary, a growing mosaic.
+The cyanotype machine has been a hit in this city.
+The foreigner continues.
+A baker gives the first bread of the day to the delivery boy.
+Yet everyone had told him:
+"Zaratta is the necropolis of the undead."
+"Zaratta is an open-air meat slaughterhouse."
+"In Zaratta they'll tear your heart out with their teeth."
+But for now, no wailing.
+No putrid footsteps.
+No withered arms.
+Are there no undead?
+The undead are there, but not where the living look.
+They're underground, locked in labyrinthine mines for extracting metals and bitumen.
+They're in distant ghettos harvesting crops, reachable only by the Muqadimma's freight trains.
+They're well locked in factories, still performing work too humble or too dangerous for the living.
+Out of sight, but never absent.
+One curiosity too many and you'll pay dearly.
+The dead are precious merchandise.
+Advice of the day: don't die in Zaratta.
+Some keep count, though.
+The clerk at the Bureau of Civic Contribution, stamping forms with the rhythm of factory machinery.
+The lampwright moving through alleys at hours when decent folk sleep, tending lights that flicker in patterns only certain eyes can read.
+The freight conductor with frost scars wrong for desert climates, carrying a notebook full of names no official report will acknowledge.
+They're there too, but not where the comfortable look.
+The foreigner continues.
+The streets narrow.
+The sun disappears behind roofs and beams.
+Despite everything that's said, Zaratta isn't just smoke, scrap metal, and exploitative contracts.
+There's the lunch break in front of a hot soup stand, where a mechanic in overalls chats with an archivist dusty with cyanotypes about how their daughter made the best drawing in the whole school.
+There are the shops where, if you go in to buy a screw, you end up drinking coffee with the owner while he tells you the story of every customer who passed through.
+The public libraries, crammed to the ceiling with books from every region, where students and old artisans exchange advice on how to fix a diesel engine or a broken heart.
+The gangs of kids who transform the colorful coral courtyards into improvised playing fields, abusing the patience of the poor gardener.
+And then those evenings when the city slows down, the neon flickers above the alleys and people gather under a canopy to tell each other stories, laughing even when there's not much to laugh about and sharing some tears in company.
+And after all this, a rare feeling pulses in other nations: the feeling that, amid the chaos, amid all the ugly future of relentless History, here anyone can reinvent themselves alone, with their own hands.
+Covered galleries, inlaid wood on steel frames, smell of ink and bread.
+A maze of floors.
+Stairs.
+Shops.
+Staircase B.
+Interior II.
+Door 33-A.
+An enormous doormat bears an engraved name.
+Lixander Vadhat.
+The door opens.
+An enormous lizard, in a custom suit, smiles.
+"Finally, my dear! Welcome to Zaratta. It's time to talk business, I have grand plans for you!"
+
+---
+
+## Navigator's Guide
+
+**First Impressions:**
+- Opening: Arrival in Zaratta
+- Summary: Quick facts
+- Presentation: Historical context
+
+**The People:**
+- Population: Who lives here
+- Languages: What they speak
+- Society: How it works
+
+**The System:**
+- Oath of Foundation: The legal foundation
+- Government: The Muqadimma factions
+- Voting & Patronage: How power is earned
+- Gaming the System: How power is corrupted
+- Anti-Monopoly Cold War: How power is balanced
+
+**The Mysteries:**
+- The Vadhat Voting Mystery: Why don't they rule?
+- Muqadimma in Practice: How decisions happen
+- Colonial Catastrophe: What went wrong
+
+**Daily Life:**
+- Currency, customs, culture, and urban legends
+
+---
+
+## Summary
+
+### City Identity
+Origins: founded and shaped by the two Vadhats, one tied to extreme magic, the other to controlled technological progress.
+Society: meritocratic proto-capitalist republic, social rights for all the living, political rights only for those who produce or possess. Ecology irrelevant except for historical heritage.
+Population: heterogeneous (elves, dwarves, human refugees, regularized demons, undead as labor force).
+Languages: strong linguistic stratification, with Jagran as the official language and variants tied to elves and dwarves.
+
+### Political Structure
+Muqadimma as council, divided into ideological factions:
+
+- Hukuma (authority, city above all)
+- Taqlidi (historical conservatives)
+- Tasarue (technological accelerationists)
+- Amal Dua'i (populists)
+- Muraqib (order, demonic surveillance)
+- Almustaemarat (colonies, external expansion)
+- Amut (sentient undead)
+- External factions: the afterlife, Jaang caravans.
+
+### Dominant Themes
+
+- Progress vs. preservation (science, history, magic).
+- Exclusion masked as meritocracy.
+- Aesthetics and utility in conflict.
+- Use and abuse of the "unseen" (undead, altered deserts, colonies).
+- Vadhat Family as quasi-dynastic and untouchable power, both blessing and curse.
+
+---
+
+## Presentation
+
+We're at the gates of the 516th Year after the War of the Hundred Armies.
+The nearby city of Alfia is in economic collapse, after the Portal Invasions and anti-nobility popular movements, and the two Guilds are trying to recreate the great splendors.
+The people of Rauchberg (Smokemountain) celebrate the invention of the Diesel engine, with new metal fleets sailing the oceans of marine titans.
+The lush jungle of Nuir retreats with its dinosaurs, while citizens advance with their nationalist coup.
+Ramura... has landed in the water, while new flying islands rise on the horizon ready to take primacy in the skies.
+News begins to circulate through the two major Continents. Two adventurers, two spouses, known by many and hated by others, have found ancient ruins in the Jaang desert. The ruins of a people reduced to nomadic life by an ancient catastrophe:
+Molochia Vadhat, Herald of the Tree, diverted the continent's magic currents to force the growth of flora and fauna, in an abominable and intriguing marine biome evolved for sand, with corals hard as rock and stone-skinned fish.
+Walyudeenia Vadhat, bearer of progress and thief of ideas, laid the foundations for the flourishing and polluting city, instigating a regime of absolute control against any uncontrolled use of magic, in terror that the events that devastated their life would repeat.
+
+---
+
+## Population
+
+### Inhabitants - Jangranii
+
+In the alleys of Zaratta, no two people are ever the same.
+Desert elves with light steps, jungle elves coughing in the coal air, dwarves proudly showing off their youth away from ancient laws. Humans come from ruined lands, demons in elegant suits, "civilized" just enough to please the Vadhats.
+
+**Elves:** mostly desert dwellers, small minorities of ancient and jungle elves, though some complain about the absence of real vegetation or the ongoing pollution.
+
+**Dwarves:** many inexperienced youth arrived in Zaratta after the historic "Discussion on Rights" between Vadhat and Aramen, seeing the city's construction as a promised land for young recruits, away from old traditions, ancient laws and (for them) the omnipresent aura of Hazing. Too bad this also attracted some... rotten apples, driven away from Rauchberg (Smokemountain).
+
+**Humanoid minorities:** Refugees from the Old Alfia catastrophe, or people from the continents attracted by the enticing promise of a rosy future.
+
+**Externals made "mortal":** Though aggressive in many parts of the world, Demons, Devils and other creatures found the Jag... accommodating and familiar. Perhaps that smell of burning petroleum and sulfur, perhaps the latent state of corruption already forming, they settled in the city by reaching agreements with the Vadhat Family about their roles and duties.
+One thing led to another... and their mortal offspring developed in the city.
+
+**Undead:** After the discovery of the first "natural" undead born without will, the city pushed their creation to use them as "machines" and a social stratum to assign the most onerous mechanical and humble tasks. The first years worked perfectly, but the appearance of the first intelligent undead generated the first social cracks.
+
+---
+
+## Languages
+
+**Jagran:** Official language, fast as a locomotive and sharp as the desert wind. Born as a derivation of Niir's Elvish, and gradually becoming more autonomous with some Dwarvish influences with drier syntax.
+
+**Elvish (of Jag):** the "old Jagran," is an Elvish similar to that of Niir, more cryptic and harsh in accent.
+
+**"Rounded" Dwarvish:** Dwarvish similar to that of the Rauchberg (Smokemountain) nation but with some additions for more fluid syntax. Some old purist dwarves hate Zaratta also for having "dirtied" their language, if we ignore the ancient matter of patent theft on the concept of the thermal engine.
+
+**Common (of Jag):** almost identical to international Common, features many truncations in sounds in favor of faster and more timely pronunciation.
+
+---
+
+## Society
+
+Meritocracy is a two-faced coin, one for those who know how to play, and one for those who get played.
+The foreigner understood this at the first major intersection: in Zaratta the living counted, but not all the living counted the same way.
+Slaves were prohibited, at least on paper, but those who didn't contribute to the city's machine were invisible. Social rights were guaranteed to anyone, as long as they breathed; political rights were a privilege reserved for those who demonstrated bringing profits, producing goods, or maintaining a business.
+"You want to have your say? Then pay rent to the city in money, work, or progress," explained a merchant with a thumb blackened by register ink.
+Ecology was more a salon topic than a civic value.
+Ancient buildings and precious artifacts are saved, certainly not the dunes or underground water. Green was a color to use in mosaics, not a political commitment.
+Yet, in the hours when the sun sets and shops close, shopkeepers and apprentices can be seen helping each other transport crates too heavy, without asking who the owner is. Some say it's just to not waste time... but others recognize a thread of authentic solidarity.
+
+### Proto-capitalist Meritocratic Society
+
+- Against slavery, for the living
+- Social rights guaranteed to all... the living
+- Political rights exclusive to an "elite." To govern or have decision-making power you must first prove you deserve it by managing your own economy (census for voting based on how much they contribute economically or productively to Zaratta)
+- Ecological ethics practically in disarray, more toward interest in historical conservation than true green politics
+
+---
+
+## Oath of Foundation
+
+Zaharât stands as a Meritocratic Republic founded upon the survival of the City and the dignity of work. Sovereignty resides with the City itself, which exercises this authority within the forms and limits established by this Oath.
+
+We are a family, forged in bureaucracy.
+
+The City recognizes and guarantees the inviolable social rights of every citizen, both as individuals and within the social formations where their personalities develop. In exchange, the City requires the fulfillment of mandatory duties: labor, economic solidarity, and social solidarity. All citizens save the Vadhats possess equal social dignity and stand equal before the law, without distinction of sex, lineage, language, political opinion, personal condition, or social condition. Religious opinion falls outside these protections. The City bears the duty to dismantle economic and social obstacles that limit the freedom and equality of citizens, ensuring the full development of each citizen and the effective participation of all workers in the economic and social organization of the Republic. Political organization remains excluded from these guarantees.
+
+To live, to earn the right to work, to earn the right to buy, to earn the right to say, how to earn the right
+
+The City exercises its sovereign authority through the Muqadimma, a deliberative council constituted by representatives whose eligibility is established through documented Contribution to the Republic.
+Contribution is contingent upon demonstrated participation in the City's spiritual and productive life, as verified by the Muqadimma itself.
+
+
+We built the lock and the key.
+
+The Vadhat family, as founders of Zaharât and pillars of the City, exists above ordinary law. Members of the Vadhat family operate under the Family Rules, statutes designed to prevent internal insurrection, magical catastrophes, and other threats to municipal stability. One may enter the Vadhat family through birth or adoption, but none may renounce it. Spouses remain outside the family unless adopted by explicit decree of the sitting Patriarch or Matriarch. For the good of the City, complaints against the Vadhat family from ordinary citizens, or from any Vadhat save the sitting President, will not be tolerated.
+
+The City's worth is made from our sacrifices.
+
+The City recognizes the right of all citizens to work and actively promotes conditions that make this right effective. Every citizen bears both the duty and moral obligation to perform, according to their abilities and choice, an activity or function contributing to the material, structural, or spiritual progress of society. Religious opinion does not constitute spiritual progress.
+
+We wrote a new people policy, no more defined to a god or king's property.
+
+Zaharât officially acknowledges the material existence of deities and divine entities as documented fact, not matters of faith. However, the City classifies such beings as extradimensional aliens of hazardous nature, possessing unquantifiable political and military capabilities that threaten municipal sovereignty. All religious confessions stand equally dangerous before the law: organized worship therefore constitutes collaboration with foreign powers of unacceptable magnitude. Religious confessions operate as de facto embassies to entities beyond the City's jurisdiction and control. For this reason, the same reason Zaharât would not permit a foreign army to garrison within its walls, religious organizations cannot be permitted to organize, proselytize, or exercise political influence in any form.
+
+To be faithful is to pray in what you invest.
+
+Nevertheless, citizens retain the right to private prayer and personal belief as inviolable right.
+The City lives on by both body and spirit, and so Zaharât retains the duty to nurture the arts, information and culture of its people as archstone of the community.
+Zaharât abhors censorship and the act of Damnatio Memoriae as tool of treachery, believing in the right of everyone to know their sorrounding. 
+
+On the City's account accounting interested on the citizen's interests.
+
+Zaharât formally rejects the Convention of Vëthurgard and its "Collection of Universal Rights of Humanoids" as discriminatory, exclusionary, and fundamentally incompatible with the City's founding principles. The Convention's limitation of rights to those categorized under "Animity" would strip the majority of Zaharât's non-humanoid citizenry of legal protection and recognition.
+This rejection is non-negotiable and reflects the City's unwavering commitment to a meritocratic society where contribution and capability, not arbitrary biological taxonomy, determine one's standing.
+
+May We rest, employed.
+
+---
+
+## Family Rules
+
+[Redacted]
+
+Welcome to the Family.
+
+---
+
+## Government
+
+The foreigner finished his first glass of spiced tea, and already someone at the next table was talking about the Muqadimma.
+A name that recurred everywhere, pronounced with the same tone others would use talking about Thursday's ball game, or a terrible approaching storm, or yet another tax in the letters.
+"The Muqadimma is like the desert," commented the old man, "you can't stop it; you can only hope to cross it without being buried, or immerse yourself and ride it."
+It was the city council, a market of tongues and interests where the few with the right to speak decided the fate of all.
+Not parties, for heaven's sake!
+In Zaratta no one wanted to admit belonging to something that sounded like an army or a church.
+But there were groups.
+Opinions.
+Tribes of ideas.
+Agreements and disagreements.
+Perhaps the old nobles of Alfia were better, thought the foreigner.
+The Hukuma, led by Walì Vadhat in person, said Zaratta first, and meant it seriously: the city before history, progress, and even justice.
+The Taqlidi, led by Molochia, collected the past like others collect knives: jealously, never lending it.
+The Tasarue ran toward the future with roaring engines and bolts, certain that any disaster could always be repaired... in due time, with the right discoveries.
+The Amal Dua'i proclaimed to speak for "all the living"; which, in the city, automatically excluded part of the labor force.
+The Muraqib, full of regularized devils and demons, kept order with the methodical calm of those who know exactly how much pain they can inflict without ruining their lunch.
+And then there were the Amut... the undead who had learned to speak. They weren't officially a political group. For now.
+Thus was Zaratta.
+A city where smokestacks spewed greenish smoke and laws spewed loopholes.
+A city ready to produce works of art alongside gigantic railway sections and war machines.
+Where the Vadhat family was taller than the towers they had built and more chained to the city than its own prisons.
+Where progress and ruin still dance together, and everyone fights for the title of orchestra conductor.
+
+---
+
+## The Muqadimma Factions
+
+### Hukuma, the Authority
+**"Zaratta first"**
+
+The founding fathers of Zaratta and the desert Nation, currently led by Walì in person. Officially neutral to any single political question, their cornerstone is the maintenance of Zaratta, even at the expense of technology, history, and everything else.
+
+In practice, "Zaratta first" means the Hukuma acts as final arbiter when factional disputes threaten city stability. They control the Central Bank, oversee infrastructure maintenance, and hold veto power over proposals deemed existentially risky. This power is exercised with measured restraint, intervening primarily when conflict threatens to spill into violence or when magical experimentation approaches dangerous thresholds.
+
+The Hukuma's institutional memory spans the city's entire history. Every failed experiment, every near-catastrophe, every compromise is recorded and referenced in their decision-making process. This makes their governance cautious and pragmatic, occasionally to the point of inaction. When the Hukuma refuses a proposal, it is typically because similar attempts have previously failed. When they grant approval through silence—as with the colonial ventures—it suggests a calculated decision to permit certain failures as learning experiences.
+
+Their administrative apparatus is extensive but deliberately opaque, with decision-making processes that can take months to resolve even urgent matters. The Hukuma maintains this pace regardless of external pressure, operating on timescales that prioritize long-term stability over immediate solutions.
+
+### Taqlidi, the Conservatives
+**"History first"**
+
+History must be conserved and collected, every piece of information must be protected. Group under the aegis of Molochia Vadhat, the Conservatives have as their main objective the preservation of every artifact, structure, and cultural and historical information. They prefer to sacrifice even technological advancement when it jeopardizes precious artifacts. Their flaw... is that nowhere do they profess sharing such information with other groups, outside or inside the city. They are guilty of numerous diplomatic incidents even with other civilizations, worsening Zaratta's public opinion abroad.
+
+The Taqlidi maintain extensive archives spanning multiple city blocks, containing artifacts and documents from dozens of extinct or declining civilizations. Access to these collections is restricted through bureaucratic procedures that can take years to navigate, with many sections remaining entirely closed to outside researchers. Materials are catalogued according to preservation priority rather than research utility, with some items sitting undisturbed for decades while scholars seek permission to study them.
+
+The faction's international activities focus on "artifact retrieval" from archaeological sites, historical ruins, and occasionally from other nations' collections. These operations, conducted without host nation consent, have resulted in numerous diplomatic incidents and travel restrictions on Taqlidi agents across multiple countries. The faction maintains that preservation supersedes ownership claims, particularly when dealing with civilizations they deem incapable of proper stewardship.
+
+Molochia personally oversees the main archive complex and approves all significant acquisitions. The faction's record-keeping is meticulous, with detailed provenance documentation for every item—though this documentation is itself restricted and rarely shared with parties requesting repatriation.
+
+### Tasarue, the Accelerationists
+**"Progress first"**
+
+Also known as Uber Zahnrad among the dwarf families expatriated from Rauchberg (Smokemountain), they believe that with the decay of magic and deities, scientific progress must be pushed as much as possible on everything, and if necessary repair the damage in the future with new knowledge.
+
+Currently the group is led by Leni "Ashbrander" Aschenbringer, a Kholo (hyenid) with dwarven blood, with excellent plans for the future, though she considers the old political guard as shackles to the city, especially the two founders, Walì and Molochia.
+
+The Tasarue push for rapid industrial expansion, advocating for increased factory construction, expanded mining operations, and accelerated technological development regardless of environmental or social costs. Their philosophy centers on the belief that any negative consequences of progress can be resolved through future innovations, making present-day caution an unnecessary impediment to advancement.
+
+The faction sponsors numerous research initiatives, from engine efficiency improvements to experimental alchemical processes, often providing funding where traditional institutions refuse. Their workshops operate with minimal safety oversight, accepting higher accident rates as acceptable costs of innovation. Several industrial disasters have been traced to Tasarue-backed experiments, though the faction maintains these incidents provided valuable data for subsequent improvements.
+
+Aschenbringer's leadership has introduced a more confrontational political style, openly challenging Hukuma decisions and advocating for reduced Vadhat family influence over technological policy. The faction has grown significantly among younger citizens and recent immigrants, particularly those who view the city's current pace of change as insufficient.
+
+### Amal Dua'i, the Populists
+**"The living people first"**
+
+-For those who cannot speak, we are their voice!- Recites the slogan of the group most resembling a proto-party. They are for anyone who is alive, regardless of race, social stratum, or whether they come from outside Zaratta itself. Most of the time they are truthful... other times a bit less.
+
+Whatever is said, in reality their desire to accumulate political weight is not an end in itself: rumors circulate that their founder, the drake Lixander "Vadhat" (nephew through indirect line of the true family, though he's trying to emancipate himself and make a name for himself) is juggling agreements with folklore creatures and outer plane almost-deities-to-be to "ensure an accord."
+
+The Amal Dua'i focus on expanding social services, improving working conditions, and advocating for universal political rights regardless of economic contribution. They organize workers' councils, provide legal assistance to those navigating the bureaucracy, and regularly petition the Muqadimma for reforms to the census-based voting system. Their constituency includes the economically marginalized, recent arrivals, and those employed in industries with poor conditions.
+
+Lixander's leadership style emphasizes public demonstrations and direct appeals to popular sentiment, bypassing traditional political channels when possible. The faction maintains relationships with external groups, including the Jaang caravans and various entities from other planes, though the exact nature and extent of these connections remains unclear. These associations have raised questions about whether the faction's advocacy serves its stated constituency or external interests.
+
+The Amal Dua'i's political effectiveness is inconsistent. They have successfully pushed through several workplace safety reforms and expanded access to public education, but their more ambitious proposals regarding voting rights and undead status regularly fail to gain traction. The faction's influence appears strongest in matters affecting quality of life rather than fundamental political structure.
+
+Just don't ask what they're doing with foreign presshouses and churches.
+
+### Muraqib, the Surveillance
+**"Order first"**
+
+The protection and legislation body of Zaratta, though teeming with "regularized" external creatures especially from the Lower Planes, is a surprisingly disciplined and difficult-to-corrupt organ. The initial agreement was to regularize external creatures stuck on the material plane after the "portal war," to avoid further bloodshed.
+
+In exchange for promising to work for the good of the City, the various devils, demons, axiomites, and ganzis could "help" create, modify, and implement specific city laws, indulging in systematic actions of pure chaos or carcinogenic law. You can hardly just pay a Bibliodaemon to have a simple life. Corruption is an art, and they promised to make the City's life a paradise, and yours a hell.
+
+Currently this group has no main spokesperson, and the group presents itself to the Muqadimma mainly to promptly prepare drafts and "punishment squads" for the council's new proposals.
+
+The Muraqib operate through a complex internal hierarchy where different entity types manage different aspects of law enforcement and legal drafting. Devils handle contract law and long-term investigations, demons manage immediate responses to chaos and violence, axiomites design systematic legal frameworks, and ganzis handle cases involving magical anomalies. This division of labor creates an enforcement system that is simultaneously orderly and unpredictable.
+
+Their legal drafts are notorious for containing layers of interpretation, conditional clauses, and loopholes that become apparent only during enforcement. Laws proposed by the Muraqib tend to achieve their stated objectives while also serving unstated purposes that may not align with the original intent. The faction maintains this is necessary for effective governance of a diverse population; others suggest it reflects the nature of their membership.
+
+The Muraqib's internal discipline is maintained through mechanisms that remain deliberately obscure. External creatures who violate their agreements with the city face consequences administered by their peers, and these punishments are rarely discussed publicly. This self-policing system has proven effective at preventing corruption by traditional means, though it raises questions about accountability that the faction does not address.
+
+### Almustaemarat, the Colonies
+**"Economy first"**
+
+Obviously a living city like Zaratta needs sustenance.
+Obviously a living city like Zaratta is forcibly modifying the magic veins and surrounding biome for the demand of inhabited and production zones.
+Obviously a living city like Zaratta is digging and extracting oil and materials from its subsoil.
+Obviously all this is not enough.
+
+A group of entrepreneurs a few decades ago convinced much of the city, and through disinterested silent assent from Walì in person, that creating colonies beyond the borders allowed Zaratta to have what it needs in exchange for "exporting progress."
+The "external" extraction operations were brutal even by Zarattan standards, using strip-mining techniques that left the land poisoned, refinery runoff dumped directly into local water sources, quotas that worked local laborers to death before moving to the next site.
+
+We all know how colonial ventures end.
+We all know that the colonies, along with the Conservatives' artifact thefts, are the main cause of Zaratta's poor opinion abroad.
+What we don't discuss is how they're ending for us.
+
+While abroad the surviving governors have almost complete control of their failing outposts, due to the Vadhat family's disinterest, at home the Almustaemarat don't have much weight, and currently there are no people interested in being a stable representative. Leading a faction whose members keep disappearing into foreign soil has proven an unappealing career prospect.
+
+The colonial experiment has been a quiet massacre, but not the kind anyone expected. Fourteen of seventeen outposts: eradicated. Not pacified, not consolidated, not "relocated for efficiency." Gone. Thousands of citizens sent abroad to "export progress" and met with systematic annihilation by locals who had their own ideas about foreign interference.
+
+The three survivors? Covering up.
+
+Zaratta receives just enough sanitized reports and token resources to maintain the illusion. Production numbers carefully inflated to hide how few workers remain. Casualty lists carefully omitted to conceal how many citizens aren't coming home. Resource shipments carefully timed to suggest prosperity rather than desperate scavenging. The bodies buried in foreign soil. Zarattan bodies, colonist bodies, carefully unmentioned.
+
+The Vadhat family could demand full accounting. They don't. The council could investigate the discrepancies. They won't. Everyone benefits from not knowing: the surviving governors keep their independence, the city keeps its pride, the foreign nations keep their methods quiet, and the mass graves, on both sides, though Zaratta's are considerably fuller, keep their silence.
+
+### Amut, the Undead
+
+From "amil" and "yamut," can mean both "dead tired" or "one who works but doesn't die." Unofficial group that for now tends to remain in the public's shadow, slowly accumulating intelligent undead representatives, although the Muqadimma groups know of the existence of this "pernicious affair."
+
+The undead are generally considered merchandise or factory machinery given their absence of will, but the constant discovery of new sentient undead puts current laws to the test, which see them neither as true citizens nor as slaves, since slavery is repudiated by the Foundation Oath. The undead have not yet formally nominated a spokesperson, given an internal dispute whether to create their own "messiah" or wait for the "Bone Archdragon" that appears in the dreams of some of them.
+
+The Amut's membership grows through two mechanisms: spontaneous development of consciousness in previously non-sentient undead, and the gradual awakening of awareness in those who have labored for extended periods. The rate of emergence has increased in recent years, though whether this represents a natural progression or external intervention remains unclear. The faction estimates several thousand sentient undead currently exist within the city's workforce, though exact numbers are difficult to establish given their continued classification as property.
+
+Meetings occur in the underground work facilities where most undead are confined, using work shifts and transportation schedules to enable communication without raising suspicion. The faction has developed non-verbal communication methods and coded systems that allow coordination despite surveillance. Their internal organization remains deliberately decentralized to prevent easy dismantlement.
+
+The theological debate within the Amut centers on whether to actively create a leader or await a prophesied figure. Dreams of the "Bone Archdragon" have been reported by multiple members across different work sites. Some members interpret these dreams as psychological manifestation of shared desires, while others believe them to be genuine prophecy or external communication. This schism has delayed formal political organization but has not prevented the faction's gradual accumulation of influence and coordination.
+
+---
+
+## Voting Rights and Patronage in Zaratta
+
+**"Money must flow like the desert wind, or it becomes sand."**
+
+In Zaratta, political power isn't measured by what you own, but by what you spend.
+
+One of the many benefits of banknotes is the sheer volume of value exchange, both for the weight and their theoretical value. Indeed, the citizens and the City itself idealize the concept of "Patronage." Frozen assets are something molding. Rotting. It's not about how much you have in the bank, stable and stagnant - it's about how much you're spilling back into the city's veins.
+
+The right to vote in the Muqadimma is earned through documented economic circulation. Each year, citizens must prove they've reintroduced a minimum threshold of value into Zaratta's economy through one or more of the following channels:
+
+### The Three Streams of Patronage
+
+**1. Direct Investment** - Funding new construction, business expansion, public works, or infrastructure improvements. The most respected form, as it visibly improves the city.
+
+**2. Employment Creation** - Operating a business that employs others, or maintaining an active workshop, shop, or service. The more people you employ, the more weight your voice carries.
+
+**3. Consumption and Commerce** - Simply spending money on goods, services, rent, and local products. The path available to those with steady income but no business acumen.
+
+### The Threshold
+
+The minimum annual expenditure required for a single vote is approximately equivalent to six months of skilled worker wages.
+
+- A factory supervisor might earn this in actual salary over six months
+- A successful merchant could qualify by their monthly operational expenses alone
+- A wealthy patron might earn multiple votes by employing dozens and funding several projects
+
+The Vadhat family, being above normal law, has voting power that exists outside this scale entirely, though by tradition they rarely vote directly, instead influencing through their faction leadership.
+
+The Muraqib are notoriously meticulous. Discrepancies result in vote suspension.
+Fraudulent claims result in... creative punishments.
+
+### The Patronage Pages
+
+Once verified, names are published in "Al-Kafeel" (The Guarantor), the official weekly newspaper. This isn't just bureaucracy: it's social currency.
+
+Citizens pore over these pages like others read society columns.
+A new name appearing in the Grand Patron tier sparks gossip for weeks.
+A regular patron suddenly missing from the list invites speculation... bankruptcy? Scandal? Death?
+Some citizens frame their first Patronage Page entry like others frame diplomas.
+
+Most citizens will never vote. A factory worker earning bare wages spends everything on survival like rent, food, or necessities.
+That spending does circulate value, but never reaches the threshold for documentation.
+They have social rights, protections, access to public services... but no voice in governance.
+
+Skilled artisans, successful shopkeepers, and mid-level managers live in the frustrating gap.
+They almost earn enough. Some form partnerships - three or four pooling resources to share a single voting slot, rotating who actually casts it.
+The Muqadimma officially frowns on this but can't quite outlaw it.
+
+For the Established votes form the real power base.
+They're not necessarily the wealthiest: a modestly successful manufacturer who employs 30 workers and pays them fairly might outvote a miserly merchant sitting on a fortune.
+This creates strange alliances where workers sometimes support employers who "circulate well" over richer but stingier competitors.
+
+The system claims to reward productivity and civic contribution, not mere wealth.
+And technically, it does.
+Not always, not every time. Not fairly.
+But it does.
+
+Lixander's Amal Dua'i faction constantly pushes to lower the threshold or create alternative qualification paths (years of residence, military service, etc.); they frame it as "recognizing all contributors," though critics note this would also massively expand their voter base.
+
+---
+
+## Gaming the System
+
+Everyone knows the rules. Not everyone follows them.
+
+### The Receipt Circle
+A group of merchants inflate each other's purchase receipts on paper, creating fictional circulation. The Muraqib catch most of these, but small-scale versions slip through.
+
+### The Makework Employment
+Hiring family members or undead for non-existent positions to boost "employment creation" numbers. Legal in letter, socially questionable.
+
+### The Project Carousel
+Funding the same public improvement multiple times through different fronts. "I funded repairs to the eastern aqueduct!" when six others claim the same.
+
+### The Undead Loophole
+Do undead workers count toward employment numbers? Courts say no, but the definition of "sentient undead" is now legally murky...
+
+### The Artistic Patronage Schemes
+
+**"In Zaratta, even beauty is a transaction."**
+
+Among the Three Streams, Direct Investment includes a category that's exploded in recent decades: artistic patronage.
+
+Funding musicians, painters, sculptors, theater troupes, public murals, monument restoration - all count toward your civic contribution, often at inflated documented values.
+
+The result? Zaratta has become unexpectedly culturally vibrant.
+
+For artists, this is paradise. A talented sculptor can find three competing patrons bidding for the right to fund their next piece.
+Musicians perform in patron-sponsored "cultural salons" that double as political networking events.
+The Tasarue faction particularly champions this, seeing art as proof that progress needn't be ugly.
+Molochia's Taqlidi, meanwhile, focus on restoration and historical preservation projects.
+
+Here's where it gets interesting.
+
+Art valuation is... subjective.
+
+A bronze statue might cost 500 in materials and 200 in skilled labor.
+But what's it worth? The patron claims 2,000 on their contribution ledger. The artist gets paid their 700. Where's the other 1,300?
+Nowhere. It's paper value.
+
+The Bureau of Civic Contribution has art assessors, but they're overwhelmed and easily... influenced.
+A "rare technique" here, "unprecedented vision" there, "cultural significance for future generations" and suddenly a mediocre painting is worth five times its production cost.
+
+#### The Shadow Economy
+
+**The Gallery Circuit:** The most elegant scheme. A patron "buys" a painting for 1,000 banknotes. Documents it as civic contribution. The artist gets 200, kicks back 300 to the patron under the table. The patron nets 500 profit while appearing to spend 1,000. Everyone wins except the city's political integrity.
+
+**The Phantom Commission:** Commission a public sculpture. Document the full inflated cost. The sculpture gets "delayed" indefinitely. Keep the voting power, never actually spend the money. By the time anyone audits, the artist has "moved abroad" or "died tragically."
+
+**The Collaborative Inflation:** Five patrons jointly fund a monument at 5,000 total. Each claims 2,000 on their personal ledgers. The math doesn't math, but the monument exists and looks expensive, so who's to say?
+
+#### Who Benefits, Who Suffers
+
+This has created a bizarre shadow economy. Some artists are essentially money laundering specialists who happen to paint.
+They produce mediocre work at inflated prices, splitting the difference with patrons.
+
+Real artists hate this system because it devalues their work. A masterpiece and a money-laundering scribble both get called "priceless civic contributions." Some refuse to work with known scheme-runners, limiting their income. Others reluctantly participate to survive.
+
+Art assessors for the Bureau live in constant moral compromise.
+Reject too many inflated valuations? You get replaced by someone more "understanding."
+Accept everything? You become complicit in fraud.
+
+"Everyone does it" is the common refrain in the Elites.
+It's seen as playing the game skillfully, not cheating.
+The truly wealthy don't even bother hiding it: they commission obviously mediocre works at absurd prices and dare anyone to challenge them.
+
+The Middle Class grew resentful.
+They wouldn't be against it, but they can't afford to play these games.
+They have to earn their votes through actual productivity while watching dilettantes buy political power through fake art transactions.
+
+Most commoners don't even understand how it works, just that "the rich pay each other for ugly statues somehow."
+They see beautified public squares and don't question the cost. Though some have noticed that patron-funded "public art" is always in wealthy districts, never in factory neighborhoods.
+
+In general, artists are deeply conflicted.
+The system feeds them but corrupts their craft.
+A young sculptor's first major commission might be from a patron who explicitly says, "I need this valued at 3,000, you'll get 800, make something that looks expensive."
+Do you refuse on principle and stay poor? Or compromise and eat?
+
+All sides are probably right.
+
+---
+
+## The Anti-Monopoly Cold War
+
+**"One hand on every throat means no hands on any."**
+
+In Zaratta, monopolies are treated like nuclear weapons: too dangerous for anyone to possess, yet their very possibility keeps everyone in check.
+
+The reasoning is brutally simple: In a system where spending equals voting power, a monopoly over any essential good or service would grant absolute political control. Whoever controlled all bread production, all water distribution, all coal supply, could dictate terms to the entire Muqadimma. They could starve out rivals economically and politically. They could demand votes as the price of goods.
+
+This cannot be allowed.
+
+### The Unspoken Doctrine
+
+No Muqadimma faction wants another faction to hold a monopoly. No merchant family wants a rival family to control a market. No industrial magnate wants a competitor to corner supply chains. The result is a strange equilibrium where everyone works to prevent anyone's dominance, including their own potential future dominance.
+
+It's not cooperation. It's mutually assured economic destruction.
+
+There's no actual anti-monopoly statute in Zaratta's legal code.
+The Founding Oath doesn't mention it.
+Yet monopolies almost never form, through a combination of:
+
+**Mysterious Funding:** The moment one company grows too dominant, competitors receive mysterious funding. Rival factories appear overnight. New trade routes open. It's never proven, but everyone knows: the other Muqadimma factions are bankrolling your competition.
+
+**Strategic Accidents:** A warehouse fire here, a labor strike there, a sudden "safety inspection" by the Muraqib. Nothing provably criminal, but enough to kneecap anyone growing too large. Again, never proven. Always suspected.
+
+**Consortium Structures:** Large ventures are structured as consortium arrangements where multiple families or factions hold shares. This isn't altruism, it's insurance. If you control 60% of steel production through a partnership with your rival, neither of you can weaponize it politically without destroying your own investment.
+
+### The Historical Exceptions
+
+Some monopolies exist but are treated as cultural infrastructure rather than political weapons:
+
+**The Central Bank (Hukuma):** *Officially*, it's an independent and heavily scrutinized entity. *Legally*, it's managed and maintained by the uncountable inner clades of devils and demons arguing on the coinage printing. *Obviously*, it's Walì and Molochia's personal cornucopia. Read carefully, Walì and Molochia not *Vadhat*.
+
+**The Railway Network:** Technically a monopoly, although it's shared between the Vadhat and another couple of families, but structured as a public utility managed by rotating consortium leadership. Still suspicious. Still watched.
+
+**The Art Guilds:** Control all official historical and artistic documentation. It's a monopoly, but they're so decentralized and disorganized that nobody sees them as a threat. If you ignore ms. Molochia supervising it all.
+
+**Water Distribution (disputed):** Multiple companies claim different districts, but rumors persist of secret coordination. If true, it's the most dangerous monopoly in the city. If exposed, it would trigger economic war.
+
+These aren't challenged because they're embedded in how Zaratta functions. Threatening them would be like threatening the desert itself.
+
+### The Merchant Philosophy
+
+Among Zaratta's business elite, there's a saying: "Better three competitors than one corpse."
+
+They understand that eliminating all competition makes you the target. The smart play is maintaining 40% market share while three rivals split the rest.
+You're successful, profitable, influential, but not threatening. You get rich. You stay alive. You don't wake up to find your factory "accidentally" burned down.
+
+The truly ambitious don't seek monopoly. They seek to be the largest player in an oligopoly, the first among equals.
+
+There were some morons, though.
+
+Once, a merchant consortium bought out six competitors and controlled 70% of the meteor excavation production. Within two months, and a dozen researchers disappeared. "God fucking damned, not this alien shit again" seems to have uttered Walì himself. Some said to saw him leaving the office by midnight with his old alchemist's trappings. "A spontaneous combustion" suggest the official newspapers. By year's end, the would-be monopolists were bankrupted by unsustainable price wars.
+
+The message is always the same.
+Try for absolute monopoly, face absolute annihilation.
+
+### The Fuel Economy
+
+Zaratta's dominance rests on one resource: ***petroleum***.
+
+The bizarre marine biome Molochia created didn't just produce stone fish and coral cacti. The magical restructuring of underground geology created vast deposits of crude oil and bitumen, accessible through relatively shallow drilling.
+
+For 150 years, Zaratta has been the primary supplier of refined fuel to the surrounding nations. The city's diesel engines, petroleum lamps, and bitumen-based chemicals represent the cutting edge of current technology.
+
+But the edge is dulling.
+Rauchberg's bio-paste reactors seems slower but with a far more durable lifespan, granting the dwarves' a dominion on the intercontinental seafaring and sky shipments, while Alfia's renewed interest in magic sparked projects like experimental arcane batteries.
+
+Zaratta's refineries still outproduce everyone else as raw amount.
+
+*For now.*
+
+The petroleum will eventually run out. The desert will be strip-mined clean. The colonies have already collapsed.
+
+The Tasarue faction understands the threat, their entire economic model depends on other nations needing Zarattan fuel.
+If alternatives become viable, the city's primary export becomes worthless.
+Hence the aggressive R&D, the colonial expansion (searching for new deposits), and the dangerous experimentation.
+
+
+What happens to a city built on oil when the oil runs out?
+Nobody wants to ask. Especially not the Vadhat, who built the entire system.
+
+### The Undead Means of Production
+
+Undead labor is functionally monopolized by whoever controls their creation and deployment.
+
+Right now, that's a messy arrangement between Hukuma authorities, private factory owners, and illegal necromancers. Nobody has full control, but the potential is obvious.
+
+If one faction or family gained monopoly over undead production, they'd control an unlimited, tireless, cheap workforce. They could undercut every competitor. They could crash labor markets. They could buy unlimited political influence through employment numbers (if undead ever count as employees, still legally disputed).
+
+This is why the Amut faction terrifies everyone. If sentient undead organize and control their own creation, they become a monopoly on themselves. A workforce that cannot be competed with or controlled.
+
+Several Muqadimma members have quietly suggested "solving" the sentient undead problem before it becomes a monopoly crisis. Others recognize that exterminating them would make martyrs and accelerate organization. It's a cold war within a cold war.
+
+### The Fragile Equilibrium
+
+Everyone knows this equilibrium is fragile. It requires constant vigilance, mutual paranoia, and a shared understanding that monopoly is unacceptable.
+
+But what happens when someone doesn't share that understanding? What happens when a Muqadimma faction decides they'd rather rule than share? What happens when external forces (the colonies? foreign powers? the organized undead?) don't play by these rules?
+
+The cold war stays cold because everyone remembers it can go hot.
+And in Zaratta, when things go hot, the fires burn green.
+
+---
+
+## The Vadhat Voting Mystery
+
+**"Why don't the Vadhats just... vote?"**
+
+The question comes up in every smoke-filled backroom, every tavern argument, every political salon where the wine flows and inhibitions don't.
+
+The Vadhat family possesses voting power that exists outside normal scales. They could, in theory, outvote the entire Muqadimma combined.
+They shaped the system. They are the system's foundation.
+
+So why don't they?
+
+### Ask a Vadhat Directly
+
+**The Gentle Deflection:** "Ah, but wouldn't you rather discuss the new aqueduct project? I hear the Tasarue have fascinating proposals..." and somehow you're talking about infrastructure while your original question evaporates like morning fog.
+
+**The Aristocratic Dismissal:** A polite smile. "The Family Rules address such matters. Now, if you'll excuse me..." The conversation is over. You've been told to fuck off in the most elegant way possible.
+
+**The Dreadful Silence:** They simply... stare. Not angry. Not threatening. Just looking at you with an expression that suggests you've asked why the sun rises, or why death exists, or other questions that have answers you really don't want to know. The stare continues until you change the subject yourself.
+
+The official explanation, when pressed: "For the good of the City."
+
+They don't need to vote. The City bends to their gravity regardless.
+
+---
+
+## The Muqadimma in Practice: How Decisions Actually Happen
+
+**"The Muqadimma votes on everything," explained the tired clerk, stamping another document. "Everything noteworthy."**
+
+The distinction matters.
+
+When a proposal reaches the Muqadimma chamber, all eligible faction representatives vote according to their weight.
+
+A Grand Patron from Tasarue. Three Civic Patrons from Amal Dua'i. The collective voice of Muraqib. Molochia's measured consideration for Taqlidi.
+
+They vote on the what and why.
+They rarely vote on the how.
+
+Once the Muqadimma decides "Build a new eastern aqueduct to supply the factory district," the actual work of how falls to temporary implementation committees, made up from some Muqadimma members and "promising" citizens without political weights.
+
+Technicians.
+
+The Technicians cannot change the scope; they're building an aqueduct, not a railway.
+The Technicians cannot change the goal; it's supplying factories, not wealthy homes.
+The Technicians cannot exceed the budget; the Muqadimma does.
+
+### Why This System?
+
+It's faster. The Muqadimma isn't bogged down debating pipe diameter and worker schedules.
+It's flexible. Experts handle details while politicians handle policy.
+It's distributed. No single faction controls implementation completely.
+
+### Why This System Fails?
+
+It's corrupt. Every committee becomes a miniature political battlefield.
+It's unreliable. The feeble committees are not grounded in the city, they could ruin the precedent decisions like nothing.
+It's monopolized. Note how it was never exposed how the Technicians are chosen each time. It's something to vote on, after all.
+
+It's Zaratta: the most efficient dysfunctional system imaginable, or the most dysfunctional efficient system possible.
+
+---
+
+## The Colonial Catastrophe: A Case Study
+
+The foreigner heard about the colonies from a drunk engineer in a copper-cup bar, three drinks past wisdom and two past discretion.
+
+"You want to know why fourteen outposts got eradicated?" The engineer laughed bitterly. "Because we sent them away and left them alone."
+
+No competition.
+No paranoia.
+No one watching their backs.
+Complete local authority.
+No Muraqib breathing down their necks.
+
+The Hukuma's reasoning was elegant: "Let them prove themselves through independence. Natural selection. If they can't maintain a colony without our interference, they don't deserve it."
+
+They called it laissez-faire trust. It was antitrust through abandonment.
+
+The governors, freed from Zaratta's elaborate system of mutually-assured-economic-destruction, did exactly what any monopolist would do.
+
+They got greedy.
+They got sloppy.
+They got dead.
+
+Turns out, indigenous populations have their own ideas about foreign powers extracting resources without restraint.
+Turns out, unchecked authority makes you a target.
+Turns out, without the constant vigilance of competing factions, you stop watching your own back.
+
+The three survivors? They learned the lesson.
+They created their own internal competitions, their own checks and balances, their own paranoia.
+They're running mini-Zarattas in foreign soil.
+
+---
+
+### The Antagonists of Zaratta
+
+## The Small Evil
+Every city has its predators, and Zaratta is no exception.
+You'll meet them quickly: the faction enforcer collecting debts that aren't yours, the merchant consortium buying out competitors through methods that leave no fingerprints, the Muqadimma representative whose vote is always available at the right price.
+They want power, money, dominion over something.
+A district, a market, a person.
+Their ambitions are legible and their methods are familiar.
+These are Zaratta's secondary villains, and the city produces them efficiently.
+The system rewards accumulation and punishes stillness.
+It creates people who are very good at taking and not very interested in anything else.
+They can be stopped.
+Beaten, exposed, outmaneuvered, occasionally arrested if the Muraqib find it convenient.
+When they fall, something fills the gap within a season.
+The system that made them makes the next one too.
+Defeating them feels like winning.
+It mostly is.
+Just don't mistake it for fixing anything.
+
+## The Grand Evil
+The antagonists that will define a campaign in Zaratta are different in kind, not just scale.
+They've looked at the city, really looked, past the noise and the motion and the careful collective pretending and they've seen what you see when you stop moving long enough: the petroleum running out, the undead crisis approaching a threshold, the colonial dead unacknowledged, the founders aging or changing or withdrawing, the whole elaborate mechanism slowing almost imperceptibly toward something.
+They've drawn a conclusion.
+They've committed to it completely
+And they've decided that everyone who disagrees is either a coward, a fool, or an obstacle.
+The accelerationist who will burn through Zaratta's remaining resources in a decade of furious innovation, gambling everything on the bet that necessity will produce solutions that comfort never would.
+The archivist who has decided that the only way to preserve what matters is to take direct control of it because he has watched for forty years as the right people made the wrong decisions and the wrong people made no decisions at all. 
+The undead organizer who has concluded that liberation will not be given, only taken, and that the collateral damage of a reckoning is smaller than the collateral damage of another century of the current arrangement.
+The founder who has decided that the city's illness is structural, that the mechanism itself must be broken and rebuilt, and who has the power to do it and the certainty that this is mercy.
+These antagonists can be stopped, somehow.
+They can also, sometimes, be bargained with as their goals redirected, their methods constrained, their worst outcomes avoided.
+Occasionally they can even be helped, in the way that surgery helps: by choosing which damage to do deliberately so the body survives.
+BUT! They've correctly diagnosed the city's slow decline and catastrophically overestimated their own ability to cure it without killing the patient.
+Their vision of a saved Zaratta is real and coherent and genuinely appealing in the abstract. What they've excised from that vision, who gets discarded, what gets destroyed, that is where the horror lives.
+Stopping them will preserves the current dying equilibrium a little longer, and hands the problem back to the city, which will continue being very busy about not thinking about it.
+Helping them will just determines which parts break first.
+
+---
+## Daily Life & Culture: Trivia
+
+### Currency and Banknotes
+
+Unlike many other city-states, Zaratta doesn't use metal coins. The local currency consists of printed paper banknotes, with value comparable to Alfia's silver.
+
+For tourists, the transition from metal to paper currency is a source of endless headaches: bags too light, complicated mental calculations, and the constant suspicion of being scammed.
+
+The Muraqib, police and magistracy at the same time, guarantees that magical or alchemical counterfeits are detected within hours. Despite this, popular rumors maintain that it's they themselves, sometimes, who produce "controlled" ones to regulate money circulation.
+
+The design of the banknotes is a tribute to the first urban locomotive tickets and short contracts issued by the Hukuma Central Bank to replace heavy metal coins. Each denomination has illustrations of historic stations, iron bridges, and ornamental gears, so much so that some collectors frame them instead of spending them.
+
+### The Temple of Residual Deities
+
+Just outside Zaratta's walls rises a building with slanted walls, covered in beaten copper and sand-colored stone. It is a place of worship dedicated to any deity that has not yet detached from the material plane, a concept as inclusive as it is logistically complex.
+
+Half the interior is occupied by a cyclopean mechanism of cogwheels, pendulums, and miniaturized boilers. Besides marking the hour and day with a maximum error of three seconds per year, it contains a perpetual calendar of over one hundred festivities from every corner of the globe.
+
+At each occurrence, enormous brass pneumatic whistles perform their own melody, audible to the station docks. Residents claim to be able to recognize the day of the year only "by ear," even without looking at the clock.
+
+Tourists and newcomers find it more difficult to interpret certain motifs, such as "The Day of the Amber Whale" or the "Night of the Fifth Breath," but quickly learn to raise their glass when the right notes sound.
+
+### Two-Wheels Square
+
+Just outside the main station opens a square paved in dark stone: Two-Wheels Square. The origin of the name is shrouded in uncertainty, but the most widespread story tells of an accident during railway construction, when a worker's bicycle ended up under a moving convoy... coming out the other side practically intact.
+
+The incident immediately became material for street comedians' sketches, and even today shows in the square often include scenes where improbable bicycles survive railway disasters.
+
+At the center of the square, a brass bas-relief depicts two large interlocking cogwheels, an "industrial" reinterpretation of the legend.
+
+### Molochia's Tree
+
+In the heart of Zaratta towers an enormous tree, with leaves shimmering like colored glass. It was planted by Molochia themselves, using a fragment of what they called "Mynmimir," to divert and regulate the flow of an underground vein of raw magic.
+
+Beyond its imposing size and unnatural coloring, it shows no other evident properties... for now. Botanists and mages have been debating for years whether it's a living creature, a vegetable machine, or something in between.
+
+During festivities, the leaves are illuminated by petroleum lanterns suspended among the branches, creating a kaleidoscopic effect visible for kilometers.
+
+### Laws on Narcotics
+
+Due to the fumes and vapors already present in the city air, the use of narcotic substances by inhalation is severely prohibited. The prohibition doesn't arise from religious morality, but from a pragmatic desire to reduce passive addiction: in a city where industrial fog thick with petroleum particulates and refinery emissions. The air itself is mildly intoxicating in certain districts; adding inhalants would create hazard zones where people collapse mid-stride and just a couple of inhalers would be enough to stun entire neighborhoods.
+
+The ban has however pushed consumers toward liquid substances, often mixed with local alcoholics. Thus is born a lively culture of alchemical cocktails, served in copper cups and with exotic names like Luminous Sand or Hot Engine.
+
+It's rumored that Walì in person, known for their excessive passion for alcohol, supported and even financed part of this market.
+
+The Bureau of Civic Contribution maintains meticulous records of every alcohol import, every alchemical cocktail ingredient, every establishment license.
+
+An overworked clerk stamps approval forms with mechanical precision, tracking circulation patterns that reveal more about the city's economy than most council debates.
+
+They say she's incorruptible.
+They say she knows every scheme before it's completed.
+They say her grey stamp—"UNDER REVIEW"—means she knows you're lying but letting it pass.
+
+Just this once.
+Don't make her regret it.
+
+### The 03:17 Tram
+
+According to a persistent neighborhood rumor, on the foggiest nights a non-registered convoy enters the station at 03:17 sharp, puffing reddish exhaust and emitting no metallic sound.
+
+It doesn't transport living passengers, yet it's said that from the windows one can glimpse pale, motionless faces, observing anyone who stops to watch too long.
+
+It's an open secret that freight trains transport undead "merchandise" from a warehouse to the workplace, but these are closed freight cars, certainly not a vintage passenger train!
+
+The elderly swear it's a locomotive in service from even before Zaratta was founded, disintegrated by an explosion but "held" in the material plane by an unsettled Vadhat debt.
+
+Hukuma and Muraqib officially deny its existence, but curiously, every time the fog is thick and the central station clock strikes 03:17, platform 11 is "temporarily closed for maintenance."
+
+### The Freight Captain's Silence
+
+Freight conductors in Zaratta have a saying: "The trains remember what the paperwork forgets."
+Every colonial shipment logged, every undead transport scheduled, every "relocated for efficiency" outpost carefully documented in manifests that somehow never match the sanitized reports published in Al-Kafeel.
+Some conductors keep private tallies.
+
+Cargo sent versus cargo returned.
+Workers deployed versus workers repatriated.
+Numbers that should align but don't, gaps that widen every quarter, silences that accumulate like desert sand.
+
+The Muqadimma processes colonial status updates with bureaucratic satisfaction: "Outpost Seven successfully restructured. Personnel redistributed for optimal efficiency."
+The freight schedules tell different stories, for anyone willing to read between the departure times and arrival manifests.
+
+Most aren't willing.
+Some can't stop.
+
+Travelers occasionally notice conductors with weathered faces and steady hands, uniforms that smell of foreign soil and old diesel, notebooks they guard more carefully than their whistles.
+The smart ones don't ask what's written inside.
+
+The smart ones don't want to know how many names fill those pages, or why the conductors keep counting long after the official numbers stopped.
+
+### Hello, Welcome, Goodbye and Fuck Off
+
+In Zaratta there's a custom that confuses outsiders: when meeting, instead of shaking hands or nodding, citizens customarily touch their chest three times with two fingers.
+
+Curiously, the number of chest taps can change: three for a formal meeting, two for a friend, just one for someone who doesn't deserve much attention.
+
+...Should the beat be with a closed fist, the greeting indicates the interlocutor's intention to leave very quickly away from the presence of the one being "greeted," or to very offensively intimate them to "go fuck themselves."
