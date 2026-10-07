@@ -105,7 +105,7 @@ a {
 }
 
 .tag {
-    font-style: italic;
+    font-style: normal;
     font-size: 14px
 }
 
@@ -170,7 +170,7 @@ h2:before {
 h2 small {
     display: block;
     font-family: 'Noto Sans Local', sans-serif;
-    font-style: italic;
+    font-style: normal;
     font-weight: 400;
     font-size: 15px;
     text-transform: none;
@@ -208,7 +208,7 @@ h3 {
 
 .lead {
     font-size: 19px;
-    font-style: italic;
+    font-style: normal;
     border-left: 4px solid var(--rust);
     padding-left: 16px;
     margin: 16px 0
