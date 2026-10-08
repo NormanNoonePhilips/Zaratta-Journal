@@ -6,7 +6,7 @@
     var top = document.createElement("div");
     top.innerHTML = '<div class="masthead"><div class="tag">* A Journal of the Old Dry Oasis *</div><h1>Lis Populis</h1></div><div class="dateline"><span>Year 516 after the War of the Hundred Armies</span><span>Jaang Desert</span><span>Banknotes only</span></div><div class="topnav">' + pages.map(function (p) { return '<a href="' + p[0] + '" class="' + (p[0] == cur ? 'on' : '') + '">' + p[1] + '</a>' }).join("") + '</div>';
     h.insertBefore(top, main);
-    var f = document.createElement("footer"); f.textContent = "Don't die in Zaratta. Don't die in Zaratta."; h.appendChild(f);
+    var f = document.createElement("footer"); f.textContent = "Don't die in Zaratta."; h.appendChild(f);
     var nav = document.createElement("nav"); nav.className = "marks"; nav.setAttribute("aria-label", "Section bookmarks");
     var hs = [].slice.call(main.querySelectorAll("h2[id]"));
     hs.forEach(function (e) { var a = document.createElement("a"); a.href = "#" + e.id; a.textContent = e.dataset.mark || e.firstChild.textContent; nav.appendChild(a) });
