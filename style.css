@@ -286,6 +286,10 @@ figure {
     margin: 22px 0
 }
 
+.pull .ln {
+    display: block
+}
+
 .dossier {
     display: grid;
     grid-template-columns: 230px 1fr;
