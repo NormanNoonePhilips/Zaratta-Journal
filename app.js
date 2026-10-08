@@ -1,5 +1,5 @@
 (function () {
-    var pages = [["index.html", "Welcome"], ["tourist.html", "Tourist's Bible"], ["rights.html", "People's Rights"], ["wrongs.html", "People's Wrongs"], ["monkey.html", "Monkey's Business"]];
+    var pages = [["index.html", "Welcome"], ["tourist.html", "Tourist's Bible"], ["rights.html", "People's Rights"], ["money.html", "Yes... money."], ["wrongs.html", "People's Wrongs"], ["monkey.html", "Monkey's Business"]];
     var cur = document.body.dataset.page;
     var h = document.createElement("div"); h.className = "sheet";
     var main = document.querySelector("main"); main.parentNode.insertBefore(h, main); h.appendChild(main);
